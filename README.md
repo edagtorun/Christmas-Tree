@@ -6,4 +6,4 @@ the tag we give to the body in HTML.
 
 <h1>Screen Gif</h1>
 
-![](screen.gif)
+![](ekran.gif)
